@@ -1,7 +1,7 @@
 # Parasitizing servers for fun and profit
 
 This repository contains all the resources (slides, proof of concept source code)
-for my presentation at leHACK in June 2023.
+for my [presentation at leHACK in June 2023](https://lehack.org/track/parasitage-de-serveur-for-fun-and-profit/).
 
 ## Turning binary files into PNG images for web upload
 
