@@ -1,0 +1,76 @@
+div#container {
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 80px;
+}
+
+div#chatcpt {
+    width: 100%;
+    margin: auto;
+    margin-bottom: 80px;
+}
+
+div#chatcpt img {
+    width: 400px;
+}
+
+input.login_inp {
+    position: relative;
+    height: 50px;
+    border: solid 1px #aaa;
+    border-radius: 3px;
+    width: 358px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+
+input:focus {
+    border: solid 1px #0055d4;
+}
+
+label#email_lbl {
+    position: relative;
+    right: -10px;
+    top: 8px;
+    background-color: #fff;
+    color: #0055d4;
+    z-index: 99;
+}
+
+label#password_lbl {
+    position: relative;
+    right: -10px;
+    top: 8px;
+    background-color: #fff;
+    color: #0055d4;
+    z-index: 99;
+}
+
+input#login {
+    width: 400px;
+    height: 50px;
+    background-color: #0055d4;
+    border: 0;
+    border-radius: 3px;
+    margin-top: 20px;
+    cursor: pointer;
+    color: #fff;
+    font-size: 1.1em;
+}
+
+div#login {
+    width: 400px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+div#signup {
+    padding-top: 50px;
+}
+
+a {
+    color: #0055d4;
+    text-decoration: none;
+}
